@@ -4,6 +4,7 @@
 ## 使用Nuget包
 + MaterialDesign
 + MVVMLight
++ LiveChart
 ## 建议观看
 翁志华的MVVMLight详解  
 https://www.cnblogs.com/wzh2010/p/6920706.html
